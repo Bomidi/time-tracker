@@ -34,5 +34,4 @@ pipeline {
         }
     }
 }
-Here is what the Pipeline looks like in Blue Ocean:
 
